@@ -8,9 +8,9 @@ https://github.com/kontate/UnitySundial/releases/tag/0.0.1
 
 ## Usage
 1. unitypackageをUnityプロジェクトにimport。
-2. Assets/Sundial/Sundial.prefabを使いたいScene上に追加。
-3. 追加したPrefabのinspector上でLatitudeを自身の住む緯度に設定。
+2. `Assets/Sundial/Sundial.prefab`を使いたいScene上に追加。
+3. 追加したPrefabのinspector上で`Latitude`を自身の住む緯度に設定。
 
-Windowタブ>SundialをクリックするとSundialウィンドウが表示され時刻を確認しやすくなります。
+`Windowタブ>Sundial`をクリックするとSundialウィンドウが表示され時刻を確認しやすくなります。
 ![image](https://user-images.githubusercontent.com/54279730/223413764-84ee5fe9-8cea-44cf-bf64-6dd40444076c.png)
 
